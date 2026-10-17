@@ -1,22 +1,34 @@
 # ¡Hola! Soy Nata 👩‍💻
 
-🎓 Soy aprendiz de Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA, Colombia.
+🎓 **Aprendiz de Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA, Colombia.**
 
-💻 Me apasiona la tecnología y estoy desarrollando mis habilidades en programación y desarrollo de software.
+💻 Me apasiona la tecnología, la programación y el desarrollo de soluciones que aporten valor a las personas.
 
-## 🚀 Áreas de interés
-- Desarrollo web
-- JavaScript
-- HTML y CSS
-- Node.js y APIs REST
-- Bases de datos
-- Git y GitHub
+## 🚀 Tecnologías y áreas de interés
 
-## 📖 Mi aprendizaje
-Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo de aplicaciones y gestión de proyectos con herramientas como Git y GitHub.
+- 🌐 **Desarrollo web:** HTML y CSS
+- 💛 **Programación:** JavaScript
+- ⚙️ **Backend:** Node.js y APIs REST
+- 🗄️ **Bases de datos**
+- 🔧 **Control de versiones:** Git y GitHub
 
-## 🎯 Mi objetivo
-Convertirme en una desarrolladora de software competente, crear proyectos que aporten soluciones y continuar creciendo profesionalmente en el mundo de la tecnología.
+## 📚 Actualmente estoy aprendiendo
+
+Estoy fortaleciendo mis conocimientos en programación, desarrollo de aplicaciones, consumo de APIs y gestión de proyectos utilizando herramientas como Git y GitHub.
+
+## 🎯 Mis objetivos
+
+- Construir una base sólida en desarrollo de software.
+- Crear proyectos que me permitan poner en práctica lo aprendido.
+- Mejorar continuamente mis habilidades técnicas.
+- Seguir creciendo como desarrolladora y explorar nuevas tecnologías.
+
+## 🌱 Un poco sobre mí
+
+Creo en el aprendizaje constante, la disciplina y la importancia de practicar cada día para alcanzar mis metas profesionales.
+
+**Este perfil es parte de mi camino para convertirme en una gran desarrolladora de software.** 🚀
+
 
 
 
