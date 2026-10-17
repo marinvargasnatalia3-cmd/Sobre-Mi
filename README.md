@@ -18,6 +18,6 @@ Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo d
 ## 🎯 Mi objetivo
 Convertirme en una desarrolladora de software competente, crear proyectos que aporten soluciones y continuar creciendo profesionalmente en el mundo de la tecnología.
 
-✨ Aprendiendo, practicando y mejorando un poco cada día.
+
 
 
