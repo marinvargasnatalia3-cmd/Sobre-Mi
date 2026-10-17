@@ -27,6 +27,4 @@ Mi objetivo es seguir aprendiendo, desarrollar mis habilidades y convertirme en 
 - Git y GitHub
 - SQL
 
----
 
-✨ *Cada línea de código es una oportunidad para aprender algo nuevo.*
