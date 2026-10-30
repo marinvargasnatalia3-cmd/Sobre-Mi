@@ -6,11 +6,11 @@
 
 ## 🚀 Tecnologías y áreas de interés
 
-- 🌐 **Desarrollo web:** HTML y CSS
-- 💛 **Programación:** JavaScript
-- ⚙️ **Backend:** Node.js y APIs REST
-- 🗄️ **Bases de datos**
-- 🔧 **Control de versiones:** Git y GitHub
+- 🌐 **Desarrollo web:** HTML y CSS.
+- 💛 **Programación:** JavaScript.
+- ⚙️ **Backend:** Node.js y APIs REST.
+- 🗄️ **Bases de datos.**
+- 🔧 **Control de versiones:** Git y GitHub.
 
 ## 📚 Actualmente estoy aprendiendo
 
@@ -23,13 +23,18 @@ Estoy fortaleciendo mis conocimientos en programación, desarrollo de aplicacion
 - Mejorar continuamente mis habilidades técnicas.
 - Seguir creciendo como desarrolladora y explorar nuevas tecnologías.
 
+## 💻 Mis proyectos
+
+### 📌 [mis-metas](https://github.com/TU-USUARIO/mis-metas)
+
+Repositorio creado para practicar Git y GitHub, registrar mis metas y aprender a gestionar los cambios de un proyecto mediante commits.
+
+### 📌 sobre-mi
+
+Mi perfil personal en GitHub, donde comparto información sobre mi proceso de aprendizaje, mis intereses y mis objetivos como desarrolladora de software.
+
 ## 🌱 Un poco sobre mí
 
 Creo en el aprendizaje constante, la disciplina y la importancia de practicar cada día para alcanzar mis metas profesionales.
 
 **Este perfil es parte de mi camino para convertirme en una gran desarrolladora de software.** 🚀
-
-
-
-
-
