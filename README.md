@@ -26,7 +26,8 @@ Estoy fortaleciendo mis conocimientos en programación, desarrollo de aplicacion
 ## Mis proyectos
 
 - **mi-receta**: proyecto donde practiqué los comandos básicos de Git (init, add, commit, log).
-- **mis-metas**: lista de mis metas, donde practiqué commits y git pull.
+- **mis-metas**: lista de mis metas, donde practiqué commits y git pull ## Mis proyectos
+- [mis-metas](https://github.com/marinvargasnatalia3-cmd/mis-metas): lista de mis metas, donde practiqué commits, push y git pull.
 
 ### 📌 sobre-mi
 
