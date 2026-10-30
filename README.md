@@ -23,11 +23,10 @@ Estoy fortaleciendo mis conocimientos en programación, desarrollo de aplicacion
 - Mejorar continuamente mis habilidades técnicas.
 - Seguir creciendo como desarrolladora y explorar nuevas tecnologías.
 
-## 💻 Mis proyectos
+## Mis proyectos
 
-### 📌 [mis-metas](https://github.com/TU-USUARIO/mis-metas)
-
-Repositorio creado para practicar Git y GitHub, registrar mis metas y aprender a gestionar los cambios de un proyecto mediante commits.
+- **mi-receta**: proyecto donde practiqué los comandos básicos de Git (init, add, commit, log).
+- **mis-metas**: lista de mis metas, donde practiqué commits y git pull.
 
 ### 📌 sobre-mi
 
