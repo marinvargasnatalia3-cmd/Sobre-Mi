@@ -36,4 +36,10 @@ Mi perfil personal en GitHub, donde comparto información sobre mi proceso de ap
 
 Creo en el aprendizaje constante, la disciplina y la importancia de practicar cada día para alcanzar mis metas profesionales.
 
+## Lo que aprendí de los conflictos
+
+1. **Un conflicto no es un error.** Es Git pidiéndome que decida qué versión dejar cuando dos personas cambiaron la misma línea. No hay que asustarse: se abre el archivo, se elige qué dejar y se hace `git add` y `git commit`.
+2. **Hay que borrar las marcas y revisar el archivo.** Antes de hacer commit debo quitar `<<<<<<<`, `=======` y `>>>>>>>`, y comprobar que el texto final quedó bien. Si me confundo a mitad del proceso, puedo cancelar con `git merge --abort`.
+3. **Para evitarlos, hay que hacer `git pull` antes de empezar y comunicarse con el equipo.** Si los dos sabemos qué parte del archivo va a cambiar cada uno, es menos probable que nos pisemos los cambios.
+
 **Este perfil es parte de mi camino para convertirme en una gran desarrolladora de software.** 🚀
